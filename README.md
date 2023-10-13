@@ -1,0 +1,1 @@
+[![Aula CI](https://github.com/LucasPGoncalves/C214-Lab-Aula-8/actions/workflows/main.yml/badge.svg)](https://github.com/LucasPGoncalves/C214-Lab-Aula-8/actions/workflows/main.yml)
